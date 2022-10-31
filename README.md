@@ -22,10 +22,11 @@ For the third weekly project in the data bootcamp, we have to identify the ideal
 First I filtered within the companies collection for start ups that had raised more than 1 Million (dollars or euros), for videogame companies and for design companies. I realized that San Francisco was the city in which more startups had raised over 1M, and one of the cities with more video games companies and design companies (based on the database I was given). Therefore I decided to focus only in San Francisco. 
 
 Then I plotted a heatmap with different layers. 
-Layer 1 -Took into account every company in San Francisco
-Layer 2 - Took into account each start up that raised more than 1M
-Layer 3 - Took into account every video game company
-Layer 4 - Took into account every design company
+
+Layer 1 -Took into account every company in San Francisco.
+Layer 2 - Took into account each start up that raised more than 1M.
+Layer 3 - Took into account every video game company.
+Layer 4 - Took into account every design company.
 
 <img src="maps/Heatmap (only offices).png" width="1840" height="700">
 <img src="maps/Heatmap (offices and startups that raised +1M).png" width="1840" height="700">
