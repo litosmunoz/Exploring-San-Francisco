@@ -72,6 +72,9 @@ Finally I created a GeoDataframe and plotted the location points with their resp
 
 <img src="maps/Map with Scores.png" width="1500" height="500">
 
+### Conclusion: 
+Based on the requests and the importance given to each one of them (weighted average), the most appropriate location to place the offices is at Point 1.
+
 ### Deliverables:
 There is one main deliverable, a jupyter notebook where I have done my search and ended up with a selected location for the new office. I have saved the main dataframe with the conditions and the corresponding scores per location. As well, I have saved some maps that show visually where are the main zones of interest. 
 
