@@ -23,10 +23,10 @@ First I filtered within the companies collection for start ups that had raised m
 
 Then I plotted a heatmap with different layers. 
 
-Layer 1 -Took into account every company in San Francisco.
-Layer 2 - Took into account each start up that raised more than 1M.
-Layer 3 - Took into account every video game company.
-Layer 4 - Took into account every design company.
+- Layer 1 -Took into account every company in San Francisco.
+- Layer 2 - Took into account each start up that raised more - than 1M.
+- Layer 3 - Took into account every video game company.
+- Layer 4 - Took into account every design company.
 
 <img src="maps/Heatmap (only offices).png" width="1840" height="700">
 <img src="maps/Heatmap (offices and startups that raised +1M).png" width="1840" height="700">
@@ -41,7 +41,8 @@ Layer 4 - Took into account every design company.
 Moreover, I used the foursquare API to find the distance from the different places (conditions) and created a new dataframe. 
 
 <img src="maps/Key Locations (without scores).png" width="5000" height="200">
-#
+
+
 I am going to use a weighted average to calculate the overall score of each location given the distance to each variable.
 
 ### Leisure (30%)
