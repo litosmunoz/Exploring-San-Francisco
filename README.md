@@ -1,7 +1,7 @@
 # Project-3  GeoSpatial Data 
 ## Ironhack Data Analytics Bootcamp 
 
-### Exploring San Francisco!!!
+## Exploring San Francisco!!!
 
 ### Introduction: 
 For the third weekly project in the data bootcamp, we have to identify the ideal location for the office of a new company, given certain conditions (eg. 30% of the company staff have at least 1 child). Using a database with over 18.000 companies and the foursquare API to access information for different venues, the objective is to find a location that works for as many employees as possible. 
